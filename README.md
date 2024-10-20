@@ -39,6 +39,9 @@ Objective: To classify images of fruits and vegetables and predict their specifi
 
 Dataset Collection: The dataset, sourced from Kaggle, contains images categorized into different classes (e.g., apple, banana, carrot). It was divided into training, validation, and test sets to ensure model generalization.
 
+![image](https://github.com/user-attachments/assets/502e48e4-e21d-4c0f-bc8b-cf0c70a42e22)
+
+
 Data Augmentation: Real-time augmentation techniques such as rescaling, rotation, flipping, zooming, and brightness adjustments were applied to increase data variability and enhance model robustness.
 
 Model Architecture: A CNN-based model was built using the following layers:
@@ -62,6 +65,9 @@ Objective: To classify fruits and vegetables as fresh or stale based on images.
 
 Dataset Collection: The dataset contains images of six fresh and six stale categories (e.g., fresh apple, stale apple) from the Kaggle fresh-and-stale images dataset.
 
+![image](https://github.com/user-attachments/assets/c82d2dcb-f4d9-413d-b7de-d46f0345962c)
+
+
 Data Augmentation: The dataset was augmented using random transformations, including rotation, width/height shifts, shear, and zoom, enhancing model generalization.
 
 Model Architecture: A CNN-based model with Conv2D and MaxPooling layers was constructed to extract features, followed by a fully connected layer and dropout to avoid overfitting. The output layer used softmax activation to predict 12 categories.
@@ -74,3 +80,8 @@ Model Performance:
 
 Training loss decreased consistently over time, while accuracy improved steadily.
 The model performed well in distinguishing between fresh and stale categories.
+
+
+Conclusion:
+
+This project successfully developed AI models capable of analyzing grocery product images to extract key specifications, classify fruits and vegetables, and assess product freshness. By leveraging advanced image processing techniques, convolutional neural networks, and data augmentation strategies, the models achieved 100% accuracy in text extraction, 97% accuracy in fruit and vegetable classification, and 94.66% in freshness detection. These solutions offer significant potential for automating product analysis in e-commerce, supply chains, and quality assurance systems, enabling efficient and accurate decision-making processes.
