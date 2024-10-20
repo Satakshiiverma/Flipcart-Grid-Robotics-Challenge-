@@ -8,7 +8,8 @@ Dataset Links:-
 
 
 Introduction:
-**1. Grocer Lens:** Product Attribute Extraction
+
+# **1. Grocer Lens:** Product Attribute Extraction
 Objective: To extract product details like weight, height, volume, and other relevant specifications from grocery product images.
 
 Dataset Collection: The dataset was sourced from e-commerce platforms (Flipkart and Amazon) and includes the following key fields:
