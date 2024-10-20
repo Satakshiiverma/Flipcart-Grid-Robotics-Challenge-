@@ -14,7 +14,7 @@ Objective: To extract product details like weight, height, volume, and other rel
 
 Dataset Collection: The dataset was sourced from e-commerce platforms (Flipkart and Amazon) and includes the following key fields:
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.store2k.com%2Fblogs%2Fnews%2Fthings-to-urge-from-an-indian-grocery&psig=AOvVaw3jKe1zjWsiWwqVayri8lPP&ust=1729534491109000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDDw5zInYkDFQAAAAAdAAAAABAE
+![image](https://github.com/user-attachments/assets/e6a19969-1d20-4491-82d2-25caa90291dd)
 
 
 Image URL: Direct link to the product image.
