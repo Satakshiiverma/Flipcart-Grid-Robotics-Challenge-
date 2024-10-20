@@ -98,6 +98,21 @@ Model Performance:
 Training loss decreased consistently over time, while accuracy improved steadily.
 The model performed well in distinguishing between fresh and stale categories.
 
+![image](https://github.com/user-attachments/assets/53014fa3-3556-48c8-adc8-020720183a03)
+
+
+![image](https://github.com/user-attachments/assets/e481b99d-7e82-437f-b83f-4704943d87b4)
+
+
+![image](https://github.com/user-attachments/assets/1e0e3889-1792-4404-a070-7f464079cee9)
+
+
+![image](https://github.com/user-attachments/assets/14dc1daf-faab-40a0-9628-aa4bfb154e90)
+
+
+![image](https://github.com/user-attachments/assets/dba3c181-7293-4cbe-99e3-2508dff222c1)
+
+
 
 Conclusion:
 
