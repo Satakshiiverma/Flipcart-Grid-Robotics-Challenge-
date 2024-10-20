@@ -25,6 +25,10 @@ Image Processing & Augmentation: Images were enhanced using rotation (0°, 90°,
 # Workflow:
 
 Text extraction using EasyOCR.
+
+![image](https://github.com/user-attachments/assets/45194b9b-3cb7-43c8-9c1b-c2ba85fd1aeb)
+
+
 Unit extraction and conversion using regex.
 Parallel processing with ThreadPoolExecutor for efficiency.
 Fuzzy matching and Logistic Regression were used to train a model for matching extracted data with expected values.
@@ -33,6 +37,10 @@ Evaluation:
 A Logistic Regression model was trained, achieving high accuracy through cross-validation.
 Visualizations using scatter plots were employed to compare predicted vs. actual values.
 
+![image](https://github.com/user-attachments/assets/fda7781e-ffb8-43c1-ab38-7359c584b3ef)
+
+
+![image](https://github.com/user-attachments/assets/fef88720-10d8-4c3b-a602-f3a6267e9053)
 
 # **2. FruitVeggieVision:** Fruit and Vegetable Classification
 Objective: To classify images of fruits and vegetables and predict their specific type.
@@ -58,6 +66,15 @@ Evaluation:
 A confusion matrix was used to identify class-specific misclassifications.
 The model demonstrated effective learning, with both training and validation accuracy increasing over time.
 
+![image](https://github.com/user-attachments/assets/2b6b8ee6-e7ce-4cd4-a2f9-2eaa124eb387)
+
+
+![image](https://github.com/user-attachments/assets/33254372-228c-4f08-a8bb-151f98a39434)
+
+
+![image](https://github.com/user-attachments/assets/1802f618-f703-42f7-b244-e6b074192f47)
+
+![image](https://github.com/user-attachments/assets/9460b1fb-5868-458a-b246-7bfea26c1091)
 
 
 # **3. FreshTrack Vision:** Freshness Detection
